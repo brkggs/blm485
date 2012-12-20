@@ -1,0 +1,22 @@
+/* 
+    Document   : street
+    Created on : 04.Kas.2012, 21:04:57
+    Author     : Emre
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+
+#wrapper{
+width: 800px; height: 1000px; background: silver;
+/*overflow: scroll;*/
+
+
+
+}
+
+
+ #draggable {  float: left; height:300px; width: 200px;}
+  #draggable1 { width: 200px; height: 300px; background: silver; float: left; }
+  #draggable2 { width: 200px; height: 300px; background: silver; float: left;}
+ 

@@ -1,0 +1,23 @@
+/* 
+    Document   : mapbox
+    Created on : Nov 7, 2012, 11:39:37 PM
+    Author     : Burak & Emre
+    Description:
+        Purpose of the stylesheet follows.
+*/
+.mapwrapper {
+  margin: 20px auto;
+  width: 469px;
+}
+
+#viewport {
+    width: 469px;
+    height: 400px;
+    cursor: move;
+    overflow: hidden;
+}
+
+root { 
+    display: block;
+}
+
